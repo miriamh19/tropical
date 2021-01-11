@@ -1,11 +1,4 @@
 body{
-<<<<<<< HEAD
-    background-color: #01a9f7;
-}
-h1{
-    color:rgb(13, 13, 14)
-=======
-    background-color: #f70201;
-    color:blueviolet;
->>>>>>> main
+    background-color: blue;
+    color: #ffffff;
 }
