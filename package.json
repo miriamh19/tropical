@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/miriamh19/tropical#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^3.9.1"
   }
 }
