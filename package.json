@@ -1,0 +1,22 @@
+{
+  "name": "tropical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriamh19/tropical.git"
+  },
+  "author": "Miriam Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriamh19/tropical/issues"
+  },
+  "homepage": "https://github.com/miriamh19/tropical#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
